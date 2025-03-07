@@ -13,15 +13,19 @@ description: Software Engineer | PraGaut Technologies Ltd
 ---
 
 ## 🔹 About Me  
-I specialize in developing **.NET Core applications**, working on projects like **Gauge Management System** and **ERP HR module**.  
-I am passionate about **backend development, system architecture, and automation**.  
+Full Stack Developer seeking to apply expertise in building scalable applications while contributing to organizational growth and 
+continuously learning.  
 
 ---
 
 ## 🚀 Projects & Experience  
-- **Gauge Management System**: Designed interfaces for calibration details and data retrieval.  
-- **ERP HR Module**: Built features for attendance tracking and holiday management.  
-- **Holiday Management System**: Implemented validation for start and end dates with **SweetAlert**.  
+- **Gauge Management System: (.NET CORE, SQL, HTML)**
+- **ERP Project - HR Module: (.NET CORE, SQL, HTML)**: 
+- **Tool Life Cycle Management System: (.NET, SQL, HTML)** 
+- **State Of Health Management System: (.NET Framework, SQL, HTML)** 
+- **Supplier Management System: (.NET Framework, SQL, HTML)** 
+- **Engineer Resource Management System: (.NET Framework, SQL, HTML)** 
+- **TLMS Customer Support Lead** 
 
 ---
 
