@@ -4,8 +4,6 @@ title: Anshu Grewal
 description: Software Engineer | PraGaut Technologies Ltd
 ---
 
-<img src="your-image-url.jpg" alt="Anshu Grewal" width="150" style="border-radius: 50%; display: block; margin: auto;">
-
 # 👋 Hello, I'm Anshu Grewal
 💻 **Software Engineer** at **PraGaut Technologies Ltd**  
 📍 Based in India  
