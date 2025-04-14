@@ -12,7 +12,7 @@ Welcome to my technical blog — here you'll find articles related to **data str
 
 ## 📚 Articles
 
-- 🔹 [Basics of Data Structures and Algorithms](./blog/basics-of-dsa.html)
+- 🔹 [Basics of Data Structures and Algorithms](./blog/basics-of-dsa)
 
 ---
 
