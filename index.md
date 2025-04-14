@@ -3,14 +3,15 @@ layout: default
 title: Anshu Grewal
 description: Software Engineer | PraGaut Technologies Ltd
 ---
+
+
+<img src="https://raw.githubusercontent.com/anshugrewal/anshugrewal.github.io/main/profile.jpg" alt="Anshu Grewal" width="150" style="border-radius: 50%; display: block; margin: auto;">
+
 <nav style="text-align: center; margin: 20px 0;">
   <a href="/blog.html" style="margin: 0 15px;">Blog</a>
   <a href="/projects.html" style="margin: 0 15px;">Projects</a>
   <a href="/resume.html" style="margin: 0 15px;">Resume</a>
 </nav>
-
-<img src="https://raw.githubusercontent.com/anshugrewal/anshugrewal.github.io/main/profile.jpg" alt="Anshu Grewal" width="150" style="border-radius: 50%; display: block; margin: auto;">
-
 
 # 👋 Hello, I'm Anshu Grewal
 💻 **Software Engineer** at **PraGaut Technologies Ltd**  
