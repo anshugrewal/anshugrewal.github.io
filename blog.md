@@ -13,7 +13,12 @@ Welcome to my technical blog — here you'll find articles related to **data str
 ## 📚 Articles
 
 - 🔹 [Basics of Data Structures and Algorithms](./blog/basics-of-dsa)
+- 
+---
 
+## 🖋️ Poetry
+
+- 🔹 [Wake up. Work. Commute.](./blog/wake-up-poem)
 ---
 
 More articles coming soon...
