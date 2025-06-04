@@ -57,7 +57,7 @@ Welcome to my blog — here you'll find articles on **data structures**, **algor
 <div style="flex: 1 1 calc(33% - 1rem); border: 1px solid #ddd; padding: 1rem; border-radius: 8px;">
 <h3>🧩 Other Writings</h3>
 <ul>
-  <li><a href="./blog/OtherWritings/index">Other Writings</a></li>
+  <li><a href="./blog/OtherWritings/otherwriting_index">Other Writings</a></li>
 </ul>
 </div>
 </div>
