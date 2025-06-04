@@ -38,7 +38,7 @@ Welcome to my blog — here you'll find articles on **data structures**, **algor
 <div style="flex: 1 1 calc(33% - 1rem); border: 1px solid #ddd; padding: 1rem; border-radius: 8px;">
 <h3>📚 DSA</h3>
 <ul>
-  <li><a href="./blog/index">Data Structures and Algorithms</a></li>
+  <li><a href="./blog/DSA/dsa_index">Data Structures and Algorithms</a></li>
 </ul>
 </div>
 
@@ -51,7 +51,7 @@ Welcome to my blog — here you'll find articles on **data structures**, **algor
 <div style="flex: 1 1 calc(33% - 1rem); border: 1px solid #ddd; padding: 1rem; border-radius: 8px;">
 <h3>🖋️ Poetry</h3>
 <ul>
-  <li><a href="./blog/Poem/index">Poem</a></li>
+  <li><a href="./blog/Poem/poem_index">Poem</a></li>
 </ul>
 </div>
 <div style="flex: 1 1 calc(33% - 1rem); border: 1px solid #ddd; padding: 1rem; border-radius: 8px;">
