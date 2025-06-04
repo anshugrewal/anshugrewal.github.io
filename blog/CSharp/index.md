@@ -8,5 +8,5 @@ description: List of C# topics by Anshu Grewal
 
 Explore various topics in C# programming:
 
-- 🔹 [Abstraction](./abstraction.md)
-- 🔹 [Throw vs throw ex](./throw-vs-throw-ex.md)
+- 🔹 [Abstraction](./index/abstraction.md)
+- 🔹 [Throw vs throw ex](./index/throw-vs-throw-ex.md)
