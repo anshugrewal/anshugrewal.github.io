@@ -17,7 +17,7 @@ Welcome to my  blog — here you'll find articles related to **data structures**
 ---
 ## 📚 C#
 - 🔹 [C# Basics](./blog/C#Question)
-
+---
 ## 🖋️ Poetry
 
 - 🔹 [Wake up. Work. Commute.](./blog/wake-up-poem)
