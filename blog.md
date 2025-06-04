@@ -31,4 +31,8 @@ Welcome to my  blog — here you'll find articles related to **data structures**
 - 🔹 [Wake up. Work. Commute.](./blog/wake-up-poem)
 ---
 
+## 🖋️ Other Stuff
+
+- 🔹 [Other Stuff](./blog/Stuff/index)
+---
 More articles coming soon...
