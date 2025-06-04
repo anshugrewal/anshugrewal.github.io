@@ -6,15 +6,17 @@ description: Technical Articles by Anshu Grewal
 
 # 📝 Blog
 
-Welcome to my technical blog — here you'll find articles related to **data structures**, **algorithms**, and **real-world software engineering.**
+Welcome to my  blog — here you'll find articles related to **data structures**, **algorithms**, and **real-world software engineering.**
 
 ---
 
-## 📚 Articles
+## 📚 DSA
 
 - 🔹 [Basics of Data Structures and Algorithms](./blog/basics-of-dsa)
 - 
 ---
+## 📚 C#
+- 🔹 [C# Basics](./blog/C#Question)
 
 ## 🖋️ Poetry
 
