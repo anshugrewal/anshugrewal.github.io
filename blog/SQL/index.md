@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Poetry
-description: List of C# topics by Anshu Grewal
+title: SQL
+description: List of SQL topics by Anshu Grewal
 ---
 
-# 📘 Poetry
+# 📘 SQL
 
 Poem:
 
