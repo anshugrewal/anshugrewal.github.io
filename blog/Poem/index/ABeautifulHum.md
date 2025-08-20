@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Wake up. Work. Commute.
+title: A Beautiful Hum.
 description: A poem by Anshu Grewal
 ---
 
