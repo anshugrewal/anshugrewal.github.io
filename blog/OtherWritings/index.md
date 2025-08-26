@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Blah Blah collectives
+title: Other Writings
 description: Blah Blah collectives by Anshu Grewal
 ---
 
