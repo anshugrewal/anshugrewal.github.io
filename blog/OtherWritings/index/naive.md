@@ -30,4 +30,8 @@
 **Naive:** Scary…   
 **Whisper:** Only momentary.   
 
-— Naive  
+— *Naive*  
+
+
+— *AG* 
+
