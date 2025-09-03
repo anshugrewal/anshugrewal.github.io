@@ -24,7 +24,7 @@
 
 
 **Naive:** What do you find frightening?   
-**Whisper (smiling):** When people open their hearts. It reminds me of the saying, “Give me a hero, and I’ll write you a tragedy.” And you know… everyone is the hero of their own story.   
+**Whisper (smiling):** When people open their hearts. It reminds me of the saying, “Give me a hero, and I’ll write you a tragedy.” And… everyone is the hero of their own story.   
 **Naive:** So, that means many tragedies.   
 **Whisper (smiling):** Nope… it just means life.   
 **Naive:** Scary…   
@@ -40,18 +40,18 @@
 
 **Naive**:Strange or Shocking?  
 **Whisper** : Surprising.   
-**Naive (curious smile)**: Like to differ… huh? Nope/Yup?  
+**Naive (curious smile)**: Like to differ… always? Nope or Yup?  
 **Whisper (smiling)**: Uncertainty is the essence.   
 
  — *Naive*      
 
 
-**Naive**: Something that doesn’t kill you makes you stronger, isn’t it?  
-**Whisper (smiling)**: …Or just stranger.  
-**Naive (with a strange look)**: Time wasted?  
-**Whisper (smiling)**: Nope… just living.  
-**Naive**: Then what’s the point?  
-**Whisper**: Reasons are absurd.  
+**Naive**: Something that doesn’t kill you makes you stronger?    
+**Whisper (smiling)**: …Or stranger.    
+**Naive (strange look)**: Time waste?    
+**Whisper (smiling)**: ...living.    
+**Naive**: what’s the point?    
+**Whisper**: Reasons are absurd.    
 
 — *Naive*  
 
