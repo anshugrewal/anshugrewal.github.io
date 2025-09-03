@@ -39,9 +39,11 @@
 
 
 **Naive**:Strange or Shocking?  
-**Whisper** : Surprising.    
+**Whisper** : Surprising.   
+**Naive (curious smile)**: Like to differ… huh? Nope/Yup?  
+**Whisper (smiling)**: Uncertainty is the essence.   
 
- — *Naive*    
+ — *Naive*      
 
 — *AG* 
 
