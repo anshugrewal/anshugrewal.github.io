@@ -45,5 +45,15 @@
 
  — *Naive*      
 
-— *AG* 
+
+**Naive**: Something that doesn’t kill you makes you stronger, isn’t it?  
+**Whisper (smiling)**: …Or just stranger.  
+**Naive (with a strange look)**: Time wasted?  
+**Whisper (smiling)**: Nope… just living.  
+**Naive**: Then what’s the point?  
+**Whisper**: Reasons are absurd.  
+
+— *Naive*  
+
+— *AG*   
 
