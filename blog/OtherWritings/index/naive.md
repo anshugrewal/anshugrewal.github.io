@@ -45,6 +45,9 @@
 
  — *Naive*      
 
+**Naive:** Choices hurt.  
+**Whisper:** Consequences.  
+— *Naive*    
 
 **Naive**: Something that doesn’t kill you makes you stronger?    
 **Whisper (smiling)**: …Or stranger.    
