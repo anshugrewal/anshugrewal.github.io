@@ -32,6 +32,16 @@
 
 — *Naive*  
 
+**Naive**: Someone said, “A man without a life companion is either a god or a beast.” Thoughts?  
+**Whisper**: Or… a politician.  
+
+— *Naive*   
+
+
+**Naive**:Strange or Shocking?  
+**Whisper** : Surprising.    
+
+ — *Naive*    
 
 — *AG* 
 
