@@ -1,95 +1,95 @@
 **Sophie:** How does it feel to waste words?  
-**Hermes:** Fool.  
+**Her mes:** Fool.  
 **Sophie:** How does it feel to be a fool?  
-**Hermes:** Normal.  
+**Her mes:** Normal.  
 **Sophie:**  How does it feel to be normal?  
-**Hermes:** Part of the crowd.  
+**Her mes:** Part of the crowd.  
 **Sophie:**  How does it feel to be part of the crowd?  
-**Hermes:** Someone else.  
+**Her mes:** Someone else.  
 **Sophie:** How does it feel to be someone else?  
-**Hermes:** Social.  
+**Her mes:** Social.  
 **Sophie:** How does it feel to be social?  
-**Hermes:** Accepted.  
+**Her mes:** Accepted.  
 **Sophie:** How does it feel to be accepted?  
-**Hermes:** Rejected.  
+**Her mes:** Rejected.  
 **Sophie:** How does it feel to be rejected?  
-**Hermes:** Confused.  
+**Her mes:** Confused.  
 **Sophie:** How does it feel to be confused?  
-**Hermes:** Thinker.  
+**Her mes:** Thinker.  
 **Sophie:** How does it feel to be a thinker?  
-**Hermes:** Uncertain.  
+**Her mes:** Uncertain.  
 **Sophie:** How does it feel to be uncertain?  
-**Hermes:** Funny.  
+**Her mes:** Funny.  
 **Sophie:** How does it feel to be funny?  
-**Hermes:** Unbothered.  
+**Her mes:** Unbothered.  
 **Sophie:** How does it feel to be unbothered?  
-**Hermes:** Lazy.  
+**Her mes:** Lazy.  
 **Sophie:** How does it feel to be lazy?  
-**Hermes:** Inefficient.  
+**Her mes:** Inefficient.  
 **Sophie:** How does it feel to be inefficient?  
-**Hermes:** Triggered.  
+**Her mes:** Triggered.  
 **Sophie:** How does it feel to be triggered?  
-**Hermes:** Serious.  
+**Her mes:** Serious.  
 **Sophie:**How does it feel to be serious?  
-**Hermes:** Smart.  
+**Her mes:** Smart.  
 **Sophie:** How does it feel to be smart?  
-**Hermes:** Sharp.  
+**Her mes:** Sharp.  
 **Sophie:** How does it feel to be sharp?  
-**Hermes:** Curse… hahahah.  
+**Her mes:** Curse… hahahah.  
 **Sophie:** What’s that?hahahha  
-**Hermes:** Memory and mistake… hahaha.  
+**Her mes:** Memory and mistake… hahaha.  
 **Sophie:** And how does it feel to make a mistake?  
-**Hermes:** Injured.  
+**Her mes:** Injured.  
 **Sophie:** How does it feel to be injured?  
-**Hermes:** Strong.  
+**Her mes:** Strong.  
 **Sophie:** How does it feel to be strong?  
-**Hermes:** Strange.  
+**Her mes:** Strange.  
 **Sophie:** How does it feel to be strange?  
-**Hermes:** Feared.  
+**Her mes:** Feared.  
 **Sophie:** How does it feel to be feared?  
-**Hermes:** Real.  
+**Her mes:** Real.  
 **Sophie:** How does it feel to be real?  
-**Hermes:** Illusion.  
+**Her mes:** Illusion.  
 **Sophie:**How does it feel to be an illusion?  
-**Hermes:** Tiring.  
+**Her mes:** Tiring.  
 **Sophie:** How does it feel to be tiring?  
-**Hermes:** Working.  
+**Her mes:** Working.  
 **Sophie:** How does it feel to be working?  
-**Hermes:** Busy.  
+**Her mes:** Busy.  
 **Sophie:** How does it feel to be busy?  
-**Hermes:** Running.  
+**Her mes:** Running.  
 **Sophie:**  How does it feel to be running?  
-**Hermes:** Accomplishing.  
+**Her mes:** Accomplishing.  
 **Sophie:** How does it feel to be accomplished?  
-**Hermes:** Beginner.  
+**Her mes:** Beginner.  
 **Sophie:** How does it feel to be a beginner?  
-**Hermes:** New.  
+**Her mes:** New.  
 **Sophie:** How does it feel to be new?  
-**Hermes:** Special.  
+**Her mes:** Special.  
 **Sophie:** How does it feel to be special?  
-**Hermes:** Surprising.  
+**Her mes:** Surprising.  
 **Sophie:** How does it feel to be surprising?  
-**Hermes:** Shocking.  
+**Her mes:** Shocking.  
 **Sophie:** How does it feel to be shocking?  
-**Hermes:** Tragic.  
+**Her mes:** Tragic.  
 **Sophie:** How does it feel to be tragic?  
-**Hermes:** Ending.  
+**Her mes:** Ending.  
 **Sophie:** How does it feel to be ending?  
-**Hermes:** Dawn.  
+**Her mes:** Dawn.  
 **Sophie:** How does it feel to be dawn?  
-**Hermes:** Scientific.  
+**Her mes:** Scientific.  
 **Sophie:** Sophie: How does it feel to be scientific?  
-**Hermes:** Logical.  
+**Her mes:** Logical.  
 **Sophie:** How does it feel to be logical?  
-**Hermes:** Subjective.  
+**Her mes:** Subjective.  
 **Sophie:** How does it feel to be subjective?  
-**Hermes:** Wrong.  
+**Her mes:** Wrong.  
 **Sophie:** How does it feel to be wrong?  
-**Hermes:** Right.  
+**Her mes:** Right.  
 **Sophie:** How does it feel to be right?  
-**Hermes:** Dumb.  
+**Her mes:** Dumb.  
 **Sophie:** How does it feel to be dumb?  
-**Hermes:** A happy ending.    
+**Her mes:** A happy ending.    
 
 
 By Alt+0151  **AG**
