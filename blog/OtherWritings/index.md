@@ -6,8 +6,8 @@ description: Blah Blah collectives by Anshu Grewal
 
 # 📘 Blah Blah collectives 
 
-- 🔹 [Naive Conversation](./index/naive)
-- 🔹 [Tit For Tat](./index/tittat)
-- 🔹 [Sophie & Hermes](./index/hermes&sophie12)
+- 🔹 [Naive Conversation](./index/naive1)
+- 🔹 [Tit For Tat](./index/tittat1)
+- 🔹 [Sophie & Hermes](./index/hermes&sophie121)
 
 
