@@ -8,5 +8,5 @@ description: List of C# topics by Anshu Grewal
 
 Poem:
 
-- 🔹 [Wake Up](./index/wake-up-poem)
-- 🔹 [A Beautiful Hum](./index/ABeautifulHum)
+- 🔹 [Wake Up](./index/wake-up-poem1)
+- 🔹 [A Beautiful Hum](./index/ABeautifulHum1)
