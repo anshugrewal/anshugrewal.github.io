@@ -5,7 +5,7 @@ description: Software Engineer | PraGaut Technologies Ltd
 ---
 
 
-<img src="https://raw.githubusercontent.com/anshugrewal/anshugrewal.github.io/main/profile.jpg" alt="Anshu Grewal" width="150" style="border-radius: 50%; display: block; margin: auto;">
+<img src="https://raw.githubusercontent.com/anshugrewal/anshugrewal.github.io/main/profile1.jpg" alt="Anshu Grewal" width="150" style="border-radius: 50%; display: block; margin: auto;">
 
 <nav style="text-align: center; margin: 20px 0;">
   <a href="/blog" style="margin: 0 15px;">Blog</a>
